@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">GP Aurai</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="data_of_sir">Welcome to Goverment Polytechnic Aurai, This Institute is best for CS IT And Elx But There Field are not so good but
+    Welcome to World of python there is some changes in new syllubus but few student were know them but there is always gaurd </string>
+    <string name="address">Katehara, Aurai S.R. Nagar Bhadohi U.P. India, 221301 </string>
+    <string name="about_us">Goverment Polytechnic Aurai located at Katehara,SR Nagar Bhadohi 221301. Its a Goverment institute Approved By:(AICTE)
+                            All India Council of Technical Education Affiliated To: Uttar Pradesh Board of Technical Education.
+                            The Institute established in 2010. In this time institute available for only 3 branches (CS, IT, Elx). The other facilities included seprate hostels for boys and girls,
+                            extensive libraries,seminar hall,reading hall,outdoor and indoor sports grounds. Our College provides homely,healthy, vegetarian food for all hosteler students.</string>
+
+
+    <!--    Register Array-->
+    <string-array name="branch_name">
+        <item>Select Your Branch</item>
+        <item>Computer Science and Eng.</item>
+        <item>Information Technology</item>
+        <item>Electronics Eng.</item>
+    </string-array>
+    <string-array name="branch_year">
+        <item>Select Year</item>
+        <item>1st Year</item>
+        <item>2nd Year</item>
+        <item>3rd Year</item>
+    </string-array>
+    <!--    Teacher Name  CS-->
+    <string-array name="hod_cs">
+        <item>Satya Prakash Srivastava</item>
+        <item>CS</item>
+        <item>Phd</item>
+        <item>R.drawable.anup_yadav</item>
+    </string-array>
+
+    <string-array name="Anup_Yadav">
+        <item>Anup Yadav</item>
+        <item>anoop15690@gmail.com</item>
+    </string-array>
+    <string-array name="Rishikant_singh">
+        <item>Rishikant Singh</item>
+        <item>rishikant.dtu@gmail.com</item>
+
+    </string-array>
+    <!--    Teacher IT-->
+
+    <string-array name="hod_it">
+        <item>Kamlesh Mani Tripathi</item>
+        <item>tripathikamleshmani@gmail.com</item>
+
+    </string-array>
+    <string-array name="Rajendra_prasad">
+        <item>Rajendra Prasad</item>
+        <item>rajendraprasad211988@gmail.com</item>
+    </string-array>
+    <string-array name="Vinod_yadav">
+        <item>Vinod Yadav</item>
+        <item>vinodrockcsit@gmail.com</item>
+    </string-array>
+    <string-array name="Vijay_gupta">
+        <item>Vijay Gupta</item>
+        <item>vijaythesoft84@gmail.com</item>
+    </string-array>
+
+    <!--    Electronics Teacher-->
+    <string-array name="hod_elx">
+        <item>Prateek Kumar</item>
+        <item>prat_ambastha@gmail.com</item>
+    </string-array>
+    <string-array name="Sanjay_singh">
+        <item>Sanjay Singh</item>
+        <item>sanjay.gpp@gmail.com</item>
+    </string-array>
+    <string-array name="Anirudh_yadav">
+        <item>Anirudh Yadav</item>
+        <item>aniruddhknmeit@gmail.com</item>
+    </string-array>
+    <string-array name="Vivekanand">
+        <item>Dr.Vivekanand Yadav</item>
+        <item>vivekanand101@gmail.com</item>
+    </string-array>
+
+    <!--    Applied Teacher-->
+    <string-array name="Umesh_chaurasiya">
+        <item>Umesh Chaurasiya</item>
+        <item>umeshch1975@gmail.com</item>
+    </string-array>
+    <string-array name="Deepak_sonkar">
+        <item>Deepak Sonkar</item>
+        <item>deepaksonkar21@gmail.com</item>
+    </string-array>
+    <string-array name="Dhirendra_tripathi">
+        <item>Dhirendra Tripathi</item>
+        <item>dktripathi@gmail.com</item>
+    </string-array>
+
+    <!--    Non Teaching  Teacher-->
+    <string-array name="Kanchan">
+        <item>Miss. Kanchan</item>
+        <item>Librarian</item>
+    </string-array>
+    <string-array name="Awadesh_kumar">
+        <item>Awadesh Kumar</item>
+        <item>awadeshkumargpa@gmail.com</item>
+    </string-array>
+    <string-array name="Rc_jaiswal">
+        <item>R.C. Jaiswal</item>
+        <item>Workshop Instructor</item>
+    </string-array>
+
+    <!-- Our Faculty String   -->
+    <string name="our_facility">Our Facilities</string>
+    <string name="list_dot">:-</string>
+    <string name="Computer_Lab"><u>Computer Lab</u></string>
+    <string name="Electronic_Lab"><u>Electronic Lab</u></string>
+    <string name="Electrical_Lab"><u>Electrical Lab</u></string>
+    <string name="Communication_Lab"><u>Communication Lab</u></string>
+    <string name="Library"><u>Library</u></string>
+    <string name="Workshop"><u>Workshop</u></string>
+
+
+    <!--   Student Testimonial   -->
+    <string name="shakti_umar">I enjoyed every second be a part of GPA student. I am proud to go there.</string>
+    <string name="ratnesh_shukla">I enjoyed every second be a part of GPA student. I am proud to go there.</string>
+    <string name="suraj_dubey">The only thing I wanna say about GPA is : The way I figure it everyone gets a miracle.</string>
+    <string name="shreya_srivastava">It\'s was the best 3 year of my life I learned many new skills and team work strategies</string>
+    <string name="deepak_yadav">I like the way teachers encourages us to explore new ideas and take action on it.</string>
+    <string name="shiva_yadav">I enjoyed the college life because the enviroment of our college allow us to feel and explore new things.</string>
+    <string name="dheeraj_dubey">I really like the enviroment and teachers support of GPA Campus</string>
+    <string name="parvez_ansari">I enjoyed every second be a part of GPA student. I am proud to go there.</string>
+    <string name="uday_bhan">I enjoyed every second be a part of GPA student. I am proud to go there.</string>
+
+
+    <!--   About College Features  -->
+    <string name="scomputer_lab"><b>\"Imparting knowledge in the most hi-tech enviromrnt\"</b>.
+        \n \nThe College of GPA have well equipped Lab. Our College has two well equiped Computer Lab .GPA Campus where many PCs are inter-connected to the internet through broadband Connection
+        GPA Campus have state-of-the-art computer centers that provide computing facilities comprising of the latest HP/IBM/DELL/HCL/ machines linked to a wide range of software ,communication
+        services. Campus are Fully Wi-Fi and student in many programmers are provided with wireless laptops to help them access the world anytime,anywhere.</string>
+    <string name="selectrical_lab"><b>\"Aao Kar Ke Sikhen\"</b>.\n \nThe College of GPA have well equipped  Electrical Lab......</string>
+    <string name="selectronic_lab"><b>\"Aao Kar Ke Sikhen\"</b>.\n \nThe College of GPA have well equipped  Electronic Lab......</string>
+    <string name="scommunication_lab"><b>\"Aao Kar Ke Sikhen\"</b>.\n \nThe College of GPA have well equipped  Communication Lab. Student have to good communication skill to develop his Skill.</string>
+    <string name="sworkshop"><b>\"Aao Kar Ke Sikhen\"</b>.\n \nThe College of GPA have well equipped  Workshops.......</string>
+    <string name="slibrary"><b>\"Books are Best Friends\"</b>.\n \nThe College has well-furnished library to further assist student with their studies. Library furnished with all mordern
+    facilities having e-journal and magazines.Library at GPA has more than 10,000 books of versatile nature and covering various subjects.</string>
+</resources>

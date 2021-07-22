@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact Us"
+        android:textSize="22sp"
+        android:textColor="@color/cscolor"
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/even_home_shadow"
+        android:layout_margin="1dp"
+        android:elevation="5dp"
+        android:padding="5dp"
+        android:visibility="visible">
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/location"
+            android:layout_margin="5dp"
+            android:layout_gravity="center_vertical"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/address"
+            android:textSize="18dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/even_home_shadow"
+        android:layout_margin="1dp"
+        android:elevation="5dp"
+        android:padding="5dp"
+        android:visibility="visible">
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/phone_icon"
+            android:layout_margin="5dp"
+            android:layout_gravity="center_vertical"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Phone: 5414-218010"
+            android:layout_gravity="center_vertical"
+            android:textSize="18dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/even_home_shadow"
+        android:layout_margin="1dp"
+        android:elevation="5dp"
+        android:padding="5dp"
+        android:visibility="visible">
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/email_icon"
+            android:layout_margin="5dp"
+            android:layout_gravity="center_vertical"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autoLink="all"
+            android:text="Email: principalgpaurai@gmail.com"
+            android:layout_gravity="center_vertical"
+            android:textSize="18dp"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/map_link_contact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoLink="all"
+        android:text="Click Here"
+        android:layout_margin="10dp"
+        android:padding="15dp"
+        android:background="@drawable/branch_button_color"
+        android:textColor="#FFFF"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18dp"/>
+
+</LinearLayout>

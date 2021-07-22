@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/home_icon"
+        android:title="Home"/>
+    <item
+        android:id="@+id/menu_notice"
+        android:icon="@drawable/ic_baseline_notifications_active_24"
+        android:title="Notice"/>
+    <item
+        android:id="@+id/menu_class_assin"
+        android:icon="@drawable/chat_icon"
+        android:title="Class"/>
+    <item
+        android:id="@+id/menu_college"
+        android:icon="@drawable/school_icon"
+        android:title="About Teachers"/>
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_baseline_person_pin_24"
+        android:title="Profile"/>
+
+</menu>

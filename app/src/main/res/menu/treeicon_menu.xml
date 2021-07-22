@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/aboutdev_nav"
+        android:icon="@drawable/ic_baseline_notifications_active_24"
+        android:title="About Developer"/>
+    <item
+        android:id="@+id/help_support_nav"
+        android:icon="@drawable/ic_baseline_notifications_active_24"
+        android:title="Help and Support"/>
+    <item
+        android:id="@+id/contactus_nav"
+        android:icon="@drawable/ic_baseline_notifications_active_24"
+        android:title="Contact Us"/>
+
+</menu>
